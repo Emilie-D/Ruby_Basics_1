@@ -6,23 +6,8 @@ Exercices de Ruby pour s'entrainer avec les méthodes et les boucles :
 
 00_hello.rb -> un programme qui demande à l'utilisateur son prénom et lui dit bonjour.
 
-01_pyramids.rb ->  Rendu attendu :
+01_pyramids.rb ->  Rendu attendu : une Pyramide de Gizeh et un losange
 
-    #
-   ###
-  #####
- #######
-#########
-
-    #
-   ###
-  #####
- #######
-#########
- #######
-  #####
-   ###
-    #
 
 02_password.rb ->faire un écran de sécurité qui demande à l'utilisateur de définir un mot de passe, et un autre qui lui demande de le saisir.
 Tant que l'utilisateur ne donne pas le bon mot de passe, le programme le lui redemande.
